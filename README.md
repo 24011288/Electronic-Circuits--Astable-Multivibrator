@@ -45,9 +45,9 @@ PC with LT Spice software
 
 
 ## OUTPUTS:
-<img width="1913" height="964" alt="image" src="https://github.com/user-attachments/assets/d969ee7b-66ea-44d1-be27-5002c7fb6d7f" />
+<img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/f2a291f3-ec5e-45bb-984b-69c3fe411dec" />
 
 
 ## RESULT:
-![WhatsApp Image 2025-11-22 at 14 12 15_32a4bc33](https://github.com/user-attachments/assets/225b2780-fb4b-4f44-a7be-14fa63394fae)
+![WhatsApp Image 2025-11-22 at 14 16 18_46c28069](https://github.com/user-attachments/assets/5b8c74de-9c47-41f2-8d2e-f1f001102a42)
 
